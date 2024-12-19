@@ -18,23 +18,5 @@ pip install markdown
 Installation
 Clone the repository or download the files to your local machine.
 
-git clone https://github.com/Pratyaksh005/markdown-to-html-converter.git
-Install the required dependencies:
 
-pip install markdown
-Run the GUI by executing gui.py:
-
-python gui.py
-Usage
-When you launch the GUI, click on the Convert Markdown to HTML button.
-Select the Markdown file (.md) that you want to convert.
-Choose a location to save the resulting HTML file.
-The status will update to reflect the progress of the conversion.
-Once the conversion is complete, a success message will be displayed.
-You can also use the Clear Selection button to reset the selection and start over.
-
-File Structure
-/markdown-to-html-converter
-    ├── gui.py              # The main GUI script
-    ├── main.py # Script that handles the conversion logic
     └── README.md           # Project documentation
